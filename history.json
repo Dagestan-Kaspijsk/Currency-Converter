@@ -1,0 +1,17 @@
+[
+  {
+    "from": "USD",
+    "to": "EUR",
+    "amount": 100,
+    "result": 92.45,
+    "timestamp": "2026-05-02T12:34:56.789123"
+  },
+  {
+    "from": "EUR",
+    "to": "RUB",
+    "amount": 50,
+    "result": 5432.10,
+    "timestamp": "2026-05-02T12:36:10.123456"
+  }
+]
+
